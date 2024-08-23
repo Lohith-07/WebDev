@@ -1,0 +1,44 @@
+#tab1{
+    height:150px;
+    border:2px solid grey;
+    padding:20px;
+    width:30%;
+}
+#in{
+    height:40px;
+    width: 240px;
+}
+.login{
+    background-color: rgb(48, 48, 204);
+    text-align:center;
+    height:40px;
+    width:240px;
+    color: white;
+}
+#help{
+    background-color: rgb(48, 48, 204);
+    color: white;
+}
+.guest{
+    background-color: grey;
+    text-align:center;
+    height:40px;
+    width:240px;
+    color: white;
+}
+#tab2{
+    height: 140px;
+}
+.tab3{
+    background-color: rgb(82, 78, 78);
+    width:100%;
+    font-size: 18;
+    text-align:bottom;
+    color:white;
+}
+.link{
+    color:white;
+}
+#link{
+    color:blue;
+}
